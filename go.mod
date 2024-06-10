@@ -1,6 +1,6 @@
 module example/mailver
 
-go 1.22.4
+go 1.22.3
 
 require (
 	github.com/AfterShip/email-verifier v1.4.0 // indirect
